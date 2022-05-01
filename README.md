@@ -3,17 +3,19 @@
  ## 👑 Tecnologias que tenho mais experiência 👑
  
  <div style="display: inline_block">
-  <img align="center" alt="Javascript" height:"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Typescript" height:"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="NodeJS" height:"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />  
-  <img align="center" alt="Postgresql" height:"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />          
-  <img align="center" alt="Postgresql" height:"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="center" alt="MongoDB" height:"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="Express" height:"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> 
-  <img align="center" alt="JSON" height:"30" width="40" src="https://icon-library.com/images/json-file-icon/json-file-icon-10.jpg" /> 
-  <img align="center" alt="Python" height:"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-  
- 
+  <img alt="Javascript" height:"35" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+">
+  <img alt="Typescript" height:"35" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+">
+  <img alt="NodeJS" height:"35" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />  
+  <img alt="NPM" height:"35" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />  
+  <img alt="Postgresql" height:"35" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />          
+  <img alt="MySQL" height:"35" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="MongoDB" height:"35" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+" />
+  <img alt="Express" height:"35" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
+  <img alt="JSON" height:"35" src="	https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />  
+  <img alt="Heroku" height:"35" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />  
  </div>         
 
 ## 👑 Tecnologias que tenho menos experiência 👑
@@ -26,3 +28,13 @@
 </div> 
 
  
+## 👇 Contato 👇
+
+<div style="display: inline_block">
+  <a href="mailto:matheusdiogenes98@gmail.com/" target="_blank"> <img height= "35" alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/matheusdiogenes/" target="_blank"> <img height= "35" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/matheus.diogeness/" target="_blank"> <img height= "35" alt="Instagram" src="	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+  <img height= "35" alt="" src="">          
+</div> 
+
+
