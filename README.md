@@ -11,7 +11,7 @@
   <img alt="MySQL" height:"35" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="MongoDB" height:"35" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="Express" height:"35" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
-  <img alt="JSON" height:"35" src="	https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />  
+  <img alt="JSON" height:"35" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />  
   <img alt="Heroku" height:"35" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />  
  </div>         
 
@@ -28,9 +28,9 @@
 ## 👇 Contato 👇
 
 <div style="display: inline_block">
-  <a > <img href="mailto:matheusdiogenes98@gmail.com/" target="_blank" height= "35" alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a <img href="mailto:matheusdiogenes98@gmail.com/" target="_blank" height= "35" alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/matheusdiogenes/" target="_blank"> <img height= "35" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/matheus.diogeness/" target="_blank"> <img height= "35" alt="Instagram" src="	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>  
+  <a href="https://www.instagram.com/matheus.diogeness/" target="_blank"> <img height= "35" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>  
 </div> 
 
 
