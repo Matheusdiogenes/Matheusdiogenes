@@ -1,6 +1,11 @@
- # Olá! Eu sou Matheus Diogenes
+# Olá, Eu sou Matheus Diogenes!
+
+- Formado em Ciências da Computação
+- Desenvolvedor Backend
+- Gosto de aprender novas tecnologias
+- Sempre em busca de novos desafios
  
- ## 👑 Tecnologias que tenho mais experiência 👑
+## 👑 Tecnologias que tenho mais experiência 👑
  
  <div style="display: inline_block">
   <img alt="Javascript" height:"35" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -28,13 +33,13 @@
 ## 👇 Contato 👇
 
 <div style="display: inline_block">
-  <a href="mailto:matheusdiogenes98@gmail.com/" target="_blank">
+  <a target="_blank" href="mailto:matheusdiogenes98@gmail.com/">
     <img alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
   </a>
-  <a href="https://www.linkedin.com/in/matheusdiogenes/" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/matheusdiogenes/">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
   </a>
-  <a href="https://www.instagram.com/matheus.diogeness/" target="_blank">
+  <a target="_blank" href="https://www.instagram.com/matheus.diogeness/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35">
   </a>
 </div> 
