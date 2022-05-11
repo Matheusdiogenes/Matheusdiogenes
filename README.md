@@ -4,6 +4,7 @@
 - Desenvolvedor Backend
 - Gosto de aprender novas tecnologias
 - Sempre em busca de novos desafios
+- Aprendizado constante
  
 ## 👑 Tecnologias que tenho mais experiência 👑
  
