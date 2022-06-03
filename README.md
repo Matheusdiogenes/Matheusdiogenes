@@ -6,7 +6,7 @@
 - Sempre em busca de novos desafios
 - Aprendizado constante
  
-## 👑 Tecnologias que tenho mais experiência 👑
+## 👑 Backend 👑
  
  <div style="display: inline_block">
   <img alt="Javascript" height:"35" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -22,10 +22,11 @@
   <img alt="Jest" height:"35" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />  
   <img alt="JWT" height:"35" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />  
   <img alt="Postman" height:"35" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />  
-  
+  <img alt="Docker" height:"35" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />  
+  <img alt="NestJS" height:"35" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />  
  </div>         
 
-## 👑 Tecnologias que tenho menos experiência 👑
+## 👑 Frontend 👑
 
 <div style="display: inline_block">
   <img height= "35" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
