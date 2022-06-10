@@ -1,6 +1,9 @@
 # Olá, Eu sou Matheus Diogenes!
 
-Sou bacharel em Ciências da Computação, minha área de atuação é como desenvolvedor backend a mais de 3 anos e frontend a mais de 1 ano. Minha principal area de atuação é como desenvolvedor backend.
+- Bacharel em Ciências da Computação
+- Desenvolvedor Backend NodeJs. 
+- Também tenho capacidade de atuar como Desenvolvedor Fullstack Node.
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-matheusdiogenes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusdiogenes/)](https://www.linkedin.com/in/matheusdiogenes/)
 [![Medium Badge](https://img.shields.io/badge/-@matheusdiogenes98-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@matheusdiogenes98/)](https://medium.com/@matheusdiogenes98)
