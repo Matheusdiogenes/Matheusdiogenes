@@ -1,54 +1,42 @@
 # Olá, Eu sou Matheus Diogenes!
 
-- Formado em Ciências da Computação
-- Desenvolvedor Backend
-- Gosto de aprender novas tecnologias
-- Sempre em busca de novos desafios
-- Aprendizado constante
- 
-## 👑 Backend 👑
- 
- <div style="display: inline_block">
-  <img alt="Javascript" height:"35" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img alt="Typescript" height:"35" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="NodeJS" height:"35" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />  
-  <img alt="NPM" height:"35" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />  
-  <img alt="Postgresql" height:"35" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />          
-  <img alt="MySQL" height:"35" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="MongoDB" height:"35" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Express" height:"35" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
-  <img alt="JSON" height:"35" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />  
-  <img alt="Heroku" height:"35" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />  
-  <img alt="Jest" height:"35" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />  
-  <img alt="JWT" height:"35" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />  
-  <img alt="Postman" height:"35" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />  
-  <img alt="Docker" height:"35" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />  
-  <img alt="NestJS" height:"35" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />  
- </div>         
+Sou bacharel em Ciências da Computação, minha área de atuação é como desenvolvedor backend a mais de 3 anos e frontend a mais de 1 ano. Minha principal area de atuação é como desenvolvedor backend.
 
-## 👑 Frontend 👑
-
-<div style="display: inline_block">
-  <img height= "35" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img height= "35" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img height= "35" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img height= "35" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">          
-  <img height= "35" alt="VITE" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">          
-</div> 
+[![Linkedin Badge](https://img.shields.io/badge/-matheusdiogenes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusdiogenes/)](https://www.linkedin.com/in/matheusdiogenes/)
+[![Medium Badge](https://img.shields.io/badge/-@matheusdiogenes98-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@matheusdiogenes98/)](https://medium.com/@matheusdiogenes98)
+[![Gmail Badge](https://img.shields.io/badge/-matheusdiogenes98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusdiogenes98@gmail.com)](mailto:matheusdiogenes98@gmail.com)
 
  
-## 👇 Contato 👇
+## ⚡ Tecnologias
 
-<div style="display: inline_block">
-  <a target="_blank" href="mailto:matheusdiogenes98@gmail.com/">
-    <img alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
-  </a>
-  <a target="_blank" href="https://www.linkedin.com/in/matheusdiogenes/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
-  </a>
-  <a target="_blank" href="https://www.instagram.com/matheus.diogeness/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35">
-  </a>
-</div> 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white")
 
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+
+![ReactJS](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![VITE](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E)
+
+## ✍️ Últimos posts no medium
+[Aprenda a criar uma API utilizando o TDD (Parte 3 — Mais testes)](https://medium.com/@matheusdiogenes98/aprenda-a-criar-uma-api-utilizando-o-tdd-parte-3-mais-testes-c117ddc10399?source=your_stories_page-------------------------------------)
+
+[Aprenda a criar uma API utilizando o TDD (Parte 2 — Primeiros testes)](https://medium.com/@matheusdiogenes98/aprenda-a-criar-uma-api-utilizando-o-tdd-parte-2-primeiros-testes-fee027e3796d?source=your_stories_page-------------------------------------)
+
+[Aprenda a criar uma API utilizando o TDD (Parte 1 — Configuração)](https://medium.com/@matheusdiogenes98/aprenda-a-criar-uma-api-utilizando-o-tdd-parte-1-configura%C3%A7%C3%A3o-82d0958fe439?source=your_stories_page-------------------------------------)
