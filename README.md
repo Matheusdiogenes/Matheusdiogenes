@@ -1,7 +1,12 @@
 # Olá, Eu sou Matheus Diogenes!
 
-- Bacharel em Ciências da Computação
-- Desenvolvedor Backend NodeJs. 
+📌 Bacharel em Ciências da Computação
+
+📌 Desenvolvedor Backend NodeJs
+
+📌 Escrevo artigos no Medium
+
+📌 Entusiasta do futebol
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-matheusdiogenes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusdiogenes/)](https://www.linkedin.com/in/matheusdiogenes/)
