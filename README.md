@@ -50,9 +50,3 @@
 
 [Aprenda a criar uma API utilizando o TDD (Parte 1 — Configuração)](https://medium.com/@matheusdiogenes98/aprenda-a-criar-uma-api-utilizando-o-tdd-parte-1-configura%C3%A7%C3%A3o-82d0958fe439?source=your_stories_page-------------------------------------)
 
-## 
-
-![vini-neymar-paqueta-dance](https://user-images.githubusercontent.com/53796789/174686638-4d297c6d-ae4c-47bb-8d06-f80491566302.gif)
-
-
-
